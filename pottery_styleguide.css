@@ -1,0 +1,36 @@
+:root {
+  --rectangle-807: rgba(26, 117, 159, 1);
+  --rectangle-805: rgba(52, 160, 164, 1);
+  --display-1-font-family: "DMSans-Bold", Helvetica;
+  --display-1-font-weight: 700;
+  --display-1-font-size: 56px;
+  --display-1-letter-spacing: 0px;
+  --display-1-line-height: 125%;
+  --display-1-font-style: normal;
+  --subtitle-font-family: "DMSans-Medium", Helvetica;
+  --subtitle-font-weight: 500;
+  --subtitle-font-size: 20px;
+  --subtitle-letter-spacing: 0px;
+  --subtitle-line-height: 125%;
+  --subtitle-font-style: normal;
+  --body-font-family: "DMSans-Regular", Helvetica;
+  --body-font-weight: 400;
+  --body-font-size: 16px;
+  --body-letter-spacing: 0px;
+  --body-line-height: 125%;
+  --body-font-style: normal;
+  --title-1-font-family: "DMSans-Medium", Helvetica;
+  --title-1-font-weight: 500;
+  --title-1-font-size: 36px;
+  --title-1-letter-spacing: 0px;
+  --title-1-line-height: 125%;
+  --title-1-font-style: normal;
+  --button-font-family: "DMSans-Bold", Helvetica;
+  --button-font-weight: 700;
+  --button-font-size: 18px;
+  --button-letter-spacing: 0px;
+  --button-line-height: 24px;
+  --button-font-style: normal;
+  --n-1: 0px 0px 0px 0px rgba(0, 0, 0, 0.1), 0px 6px 12px 0px rgba(0, 0, 0, 0.1), 0px 22px 22px 0px rgba(0, 0, 0, 0.09),
+    0px 50px 30px 0px rgba(0, 0, 0, 0.05), 0px 89px 35px 0px rgba(0, 0, 0, 0.01), 0px 138px 39px 0px rgba(0, 0, 0, 0);
+}
