@@ -1,6 +1,6 @@
 # GETIT2
 
-<img width="329" alt="KakaoTalk_Photo_2023-12-02-17-34-38" src="https://github.com/edwardpmdr/GETIT2/assets/104841981/f3dce127-46c1-47c3-b04d-168fd35040fb">
+<img width="300" alt="KakaoTalk_Photo_2023-12-02-17-34-38" src="https://github.com/edwardpmdr/GETIT2/assets/104841981/f3dce127-46c1-47c3-b04d-168fd35040fb">
 
 
 
