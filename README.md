@@ -1,6 +1,8 @@
 # GETIT2
 
-✅ Link Place
+<img width="329" alt="KakaoTalk_Photo_2023-12-02-17-34-38" src="https://github.com/edwardpmdr/GETIT2/assets/104841981/f3dce127-46c1-47c3-b04d-168fd35040fb">
+
+
 
 - 사용자에게 다양한 즐거움을 주는 공간들을 더 편하고 쉽게 찾아볼 수 있도록 도와드리는 온라인 공간 편집샵 👀
 
